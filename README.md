@@ -1,6 +1,8 @@
 # Station
 > Declarative workstation management
 
+## Usage
+
 Station is a tool that lets you declaratively manage the programs and
 configuration files on your personal computer. Think of it like
 [Terraform](https://terraform.io) for your laptop.
@@ -34,3 +36,18 @@ file and you edit that file outside of the Station configuration, next
 time you run Station your edits will be lost. This ensures that the
 Station configuration is always an up-to-date, reproducible snapshot
 of the desired workstation state.
+
+## Installation
+It's not done yet :)
+
+## Author
+
+* Jeremy Dormitzer (jeremy.dormitzer@gmail.com)
+
+## Copyright
+
+Copyright (c) 2021 Jeremy Dormitzer (jeremy.dormitzer@gmail.com)
+
+## License
+
+Licensed under the MIT License.
